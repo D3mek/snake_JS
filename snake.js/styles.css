@@ -1,0 +1,43 @@
+body {
+    background-color: grey;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0px 0px 0px 34.3%;
+}
+
+td {
+    border: 0px;
+    height: 15px;
+    width: 15px;
+    background-color: black;
+    color: white;
+}
+
+#snakeFood {
+    background-color: red;
+}
+
+#snake {
+    background-color: green;
+}
+
+#score-bar {
+    margin: 0px 0px 0px 34.3%;
+    height: 25px;
+    width: 100px;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+
+#score-label {
+    margin-right: 6px;
+}
+
+#score {
+    font-weight: bold;
+}
